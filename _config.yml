@@ -1,0 +1,23 @@
+name: GarrettClum
+favicon: null
+layout_spectrum: 0.5372723483014852
+typography_spectrum: 0.5027580016758293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9199084648862481
+  lightness: 0.7285330721642822
+  saturation: 0.9466224168427289
+  rhythmicContrast: 0.6393933647777885
+purpose: []
